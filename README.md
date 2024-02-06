@@ -13,7 +13,7 @@ If you use the dataset in a scientific publication, we would appreciate citation
 
 **Generation Model and Device Profiles' Dataset". Computer Networks (2020): 107248.**
 
-Show BibTeX ([link](https://scholar.googleusercontent.com/scholar.bib?q=info:bbXQ3Ah4CUgJ:scholar.google.com/&output=citation&scisdr=ClFwzmqYENH24m_7tKo:AFWwaeYAAAAAZcH9rKrXX8xXWD4ViW4n3R8bmc4&scisig=AFWwaeYAAAAAZcH9rJ8dC56nzXI5ACfCNjO9_KQ&scisf=4&ct=citation&cd=-1&hl=en)) – Read on Elsevier ([link](https://www.sciencedirect.com/science/article/pii/S138912861931730X?via%3Dihub))
+Read on Elsevier ([link](https://www.sciencedirect.com/science/article/pii/S138912861931730X?via%3Dihub))
 
 Thank you!
 
